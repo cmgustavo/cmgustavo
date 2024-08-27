@@ -22,7 +22,7 @@ I'm a passionate **Computer Engineer** and **Senior Software Developer** at **Bi
 - **[BitPay App](https://github.com/cmgustavo/bitpay-app)**: BitPay App (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - **[Bitcore](https://github.com/cmgustavo/bitcore)**: Nodejs Bitcoin Library.
 - **[Work Notes](https://github.com/cmgustavo/work-notes)**: Track your daily meetings or whatever you need registry every day.
-- **[Wallet]([https://github.com/cmgustavo/work-notes](https://github.com/cmgustavo/wallet))**: Self-custodial bitcoin wallet using Ionic.
+- **[Wallet](https://github.com/cmgustavo/wallet)**: Self-custodial bitcoin wallet using Ionic.
 
 Whether it's exploring the latest trends in blockchain, building scalable software solutions, or contributing to open-source projects, I'm always looking for new challenges and opportunities to grow.
 
