@@ -28,6 +28,7 @@ I'm a passionate **Computer Engineer** and **Senior Software Developer** at **Bi
 - **[Baby Track](https://github.com/cmgustavo/baby-track)**: Tecord your baby's growth and vaccine schedule, featuring easy input of weight, height, and birth data.
 - **[Wallet](https://github.com/cmgustavo/wallet)**: Self-custodial bitcoin wallet using Ionic.
 - **[Zone Cameras](https://github.com/cmgustavo/zone-cameras)**: Front View for ZoneMinde API.
+- **[Simple Tetris](https://github.com/cmgustavo/simple-tetris)**: A minimalist, pastel-colored Tetris-style puzzle.
 
 ## 💻 Initial Configuration Files
 
